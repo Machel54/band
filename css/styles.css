@@ -1,8 +1,12 @@
 img{
-  float:right;
+  float: right;
+  size: 130%;
 }
 .sidebar{
   width: 50%;
   float: left;
   background-color: maroon;
+}
+.title{
+   font-size: 56;
 }
